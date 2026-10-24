@@ -1,0 +1,4 @@
+pen,10,25
+notebook,5,120
+bag,abc,1500
+marker,4,80
